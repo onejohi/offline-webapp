@@ -1,0 +1,15 @@
+{
+    "name": "Simple site",
+    "short_name": "Simple",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "This is a simple site",
+    "icons": [
+        {
+            "src": "./assets/logo.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {}
+    ]
+}
